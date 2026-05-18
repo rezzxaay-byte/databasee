@@ -1,3 +1,17 @@
-{ 
-"tokens" : [ ]
+{
+  "tokens": [],
+  "pending": [
+    {
+      "tokenHash": "7d8b7d6aa8b5de39d8eee816925b7bd8f9d9505c8ff3a438579971523c068f4b",
+      "requestedBy": {
+        "id": 1705496343,
+        "is_bot": false,
+        "first_name": "Báldwin 𝐗-𝐘𝐎𝐑𝐄 [ 𝐎𝐏𝐄𝐍 𝐌𝐀𝐍𝐓𝐀'𝐗 ]",
+        "username": "GabreilRey",
+        "language_code": "id",
+        "is_premium": true
+      },
+      "ts": 1779147919239
+    }
+  ]
 }
